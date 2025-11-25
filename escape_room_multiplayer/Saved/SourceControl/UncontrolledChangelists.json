@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/software_developer/stage/Multiplayer/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/Blueprints/bp_PlayerCharacter.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/Blueprints/bp_PuzzleActor.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/Blueprints/bp_GameMode_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/Blueprints/bp_GameState_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/Blueprints/bp_PlayerState_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_PlayerCharacter.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_GameState_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_GameMode_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_PuzzleActor.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_PlayerState_Escape.uasset",
+				"C:/software_developer/stage/Multiplayer/Content/MultiPlayer/Blueprints/bp_PlayerController_Escape.uasset"
+			]
+		}
+	]
+}
